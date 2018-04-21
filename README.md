@@ -9,8 +9,6 @@ In lecture we talked about backtracking, and saw that it *can* provide an improv
 
 You are probably aware of Sudoku, the games played on a 9x9 grid using the numbers 1-9.  To complete a puzzle you must add the numbers such that each number 1-9 appears in each row, in each column, and in each segment.
 
-**Note, this is not instance we are going to solve for this assignment.**
-
 ## Backtracking
 
 Remember, backtracking follows this general template for our recursive function:
